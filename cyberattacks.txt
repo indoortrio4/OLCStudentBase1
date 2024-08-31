@@ -1,0 +1,9 @@
+Term Description
+1. Cookie : A small piece of data used by websites to store personal information on a user’s web browser - Although usually not malicious in nature, cookies are sometimes misused to collect personal information about users
+2. Pharming : The interception of requests sent from a computer to a legitimate website and redirection to a fake website to steal personal data or credit card details - More difficult to detect than phishing as the fake website uses the same address as the real website
+3. Phishing : The use of emails and fake websites that appear to be from reputable companies in order to steal personal information such as passwords and credit card numbers from users 
+4. Spamming : The mass distribution of unwanted messages or advertising to email addresses which are collected from sources such as public mailing lists, social networking sites, company websites and personal blogs 
+5. Spyware : A hidden program that secretly collects personal information about its users and transmits this information to attackers without the users’ knowledge 
+6. Trojan horse : A computer program that pretends to be a harmless file or useful application - Once a Trojan horse is run, it does something harmful such as giving intruders unauthorised access to the computer instead
+7. Virus : A computer program that attaches itself to a normally harmless program and modifies it - When the modified program is run by a user, the virus attaches copies of itself to any other programs it can find, thus “infecting” them
+8. Worm : A computer program that runs automatically and attempts to spread by sending copies of itself to other computers - Unlike a virus, a worm does not need to attach itself to an existing program
